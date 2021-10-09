@@ -1,2 +1,4 @@
 # taku.ist
-an attempt to code taku.cli in rust
+An attempt to code taku.cli in rust  
+
+Current progress: Basic hello world screen
